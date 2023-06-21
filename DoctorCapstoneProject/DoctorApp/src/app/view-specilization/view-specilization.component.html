@@ -1,0 +1,20 @@
+<app-navbar></app-navbar>
+<div class="table-container"> 
+  <div>
+    <h1>View Specialization</h1>
+    <table style="border:2px solid black ;align-items: center;width: 400px; height: 250px;">
+      <tr style="border: 1px solid black; background-color: #f2f2f2; padding: 1px; ">
+        <th>Specialization Code</th>
+        <th>Specialization Name</th>
+        <th>Action</th>
+      </tr>
+      <tr *ngFor="let spe of specilization">
+        <td>{{spe.specializationCode}}</td>
+        <td>{{spe.specializationName}}</td>
+        <td>
+          <button><a routerLink="/viewdoctor">View Doctor</a></button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

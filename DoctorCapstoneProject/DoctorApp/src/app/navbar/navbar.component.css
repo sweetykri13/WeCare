@@ -1,0 +1,27 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.nav2 {
+  text-decoration: none;
+  display: flex;
+  gap: 2rem;
+  height: 50px;
+  padding-right: 1rem;
+  font-size: 20px;
+  align-items: center;
+}
+
+.nav1 {
+  font-size: 28px;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}

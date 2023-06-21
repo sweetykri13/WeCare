@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DALDoctorCapstone",
+    "\\DoctorApp",
+    "\\DoctorApp\\src",
+    "\\DoctorApp\\src\\app",
+    "\\DoctorApp\\src\\app\\add-doctor",
+    "\\DoctorApp\\src\\app\\navbar",
+    "\\DoctorApp\\src\\app\\view-doctor",
+    "\\ServiceLayerDoctorCapstone",
+    "\\ServiceLayerDoctorCapstone\\Controllers"
+  ],
+  "SelectedNode": "\\DoctorApp\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}

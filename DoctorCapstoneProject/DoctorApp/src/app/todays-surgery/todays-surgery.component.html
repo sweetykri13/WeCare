@@ -1,0 +1,28 @@
+<app-navbar></app-navbar>
+<div class="table-container">
+  <div>
+    <h1>View Surgery</h1>
+    <table style="border:2px solid black ;align-items: center;width: 800px; height: 250px;">
+      <tr style="border: 1px solid black; background-color: #f2f2f2; padding: 1px; ">
+        <th>Surgery Id</th>
+        <th>Doctor Id</th>
+        <th>Surgery Date</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+        <th>Surgery Category</th>
+        <th>Action</th>
+      </tr>
+      <tr *ngFor="let sur of surgerys">
+        <td>{{sur.surgeryId}}</td>
+        <td>{{sur.doctorId}}</td>
+        <td>{{sur.surgeryDate}}</td>
+        <td>{{sur.startTime}}</td>
+        <td>{{sur.endTime}}</td>
+        <td>{{sur.surgeryCategory}}</td>
+        <td>        
+          <button [routerLink]="['/updateSurgery',sur.surgeryId,sur.doctorId,sur.surgeryDate,sur.startTime,sur.endTime,sur.surgeryCategory]">Edit Surgery Time's</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

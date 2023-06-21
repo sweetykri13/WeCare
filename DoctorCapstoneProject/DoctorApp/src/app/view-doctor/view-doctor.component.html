@@ -1,0 +1,22 @@
+<app-navbar></app-navbar>
+<div class="table-container">
+  <div>
+    <h1>View Doctor</h1>
+    <table style="border:2px solid black ;align-items: center;width: 400px; height: 250px;">
+      <tr style="border: 1px solid black; background-color: #f2f2f2; padding: 1px; ">
+        <th>Doctor Id</th>
+        <th>Doctor Name</th>
+        <th>Action</th>
+        
+      </tr>
+      <tr *ngFor="let doc of doctors">
+        <td>{{doc.doctorId}}</td>
+        <td>{{doc.doctorName}}</td>
+        <td style="display:flex;gap:20px">       
+          <button [routerLink]="['/updateDoctor', doc.doctorId]" >Edit Doctor Details</button>
+          <button (click)="deleteDoctor(doc.doctorId)">Delete</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

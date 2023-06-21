@@ -1,0 +1,15 @@
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\bin\Debug\net6.0\appsettings.json
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\bin\Debug\net6.0\DALDoctorCapstone.deps.json
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\bin\Debug\net6.0\DALDoctorCapstone.runtimeconfig.json
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\bin\Debug\net6.0\DALDoctorCapstone.dll
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\bin\Debug\net6.0\DALDoctorCapstone.pdb
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.csproj.AssemblyReference.cache
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.AssemblyInfoInputs.cache
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.AssemblyInfo.cs
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.csproj.CoreCompileInputs.cache
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.dll
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\refint\DALDoctorCapstone.dll
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.pdb
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\DALDoctorCapstone.genruntimeconfig.cache
+D:\DoctorCapstonProject\DoctorCapstoneProject\DALDoctorCapstone\obj\Debug\net6.0\ref\DALDoctorCapstone.dll
